@@ -1,6 +1,12 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+/**
+ * main - Prints a random number and states whether it's greater than five,
+ * zero, or less than six and not zero.
+ *
+ * Return: Always 0.
+ */
 int main(void)
 {
 	int n;
